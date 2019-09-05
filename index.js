@@ -5,6 +5,6 @@ function bbb(str){
   console.log(str)
 }
 
-function cccc(){
-  console.log('cccc')
+function cccc(str){
+  console.log('cccc'+str)
 }
